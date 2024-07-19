@@ -121,26 +121,4 @@ vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?security=tls&sni=vip1
 vless://TELEGRAM-ID-XPNTEAM@xpnteam-mci-free-chanell.eiskaltenaa.ir:2096?security=tls&sni=xpnteam-mci-free-chanell.eiskaltenaa.ir&alpn=h2&fp=chrome&type=grpc&encryption=none#MSNsoftware%F0%9F%8D%83_120
 trojan://Watashi_VPN@104.17.148.22:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#MSNsoftware%F0%9F%8D%83_121
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:2083?security=tls&sni=85f543D6.bPB-wOrKEr-panEl-6jV.pAGEs.DeV&alpn=http/1.1&fp=randomized&type=ws&path=/jbyTmS739Kgg6zfz&host=85F543d6.BpB-WOrker-PaNEl-6JV.pageS.dev&encryption=none#MSNsoftware%F0%9F%8D%83_122
-
-{
-  "outbounds": 
-  [
-    {
-      "type": "wireguard",
-      "tag": "Warp 🇮🇷 § 0",
-      "local_address": [
-        "172.16.0.2/24",
-        "2606:4700:110:8caa:9f15:5f24:bd9a:49e5/128"
-      ],
-      "private_key": "yLaVXwz6gJzb5NtargKyv+TD8GMx/rn421oRPk6m33A=",
-      "server": "162.159.192.245",
-      "server_port": 7103,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "s0+v",
-      "mtu": 1330,
-      "fake_packets": "25-30",
-      "fake_packets_size": "10-30",
-      "fake_packets_delay": "10-30"
-    }
-  ]
-}
+wireguard://yLaVXwz6gJzb5NtargKyv%2BTD8GMx%2Frn421oRPk6m33A%3D@162.159.192.245:7103/?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=s0%2Bv&address=172.16.0.2%2F24%2C2606%3A4700%3A110%3A8caa%3A9f15%3A5f24%3Abd9a%3A49e5%2F128&mtu=1330#Warp
