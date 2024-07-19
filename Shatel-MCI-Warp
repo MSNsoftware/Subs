@@ -57,6 +57,23 @@
         "fake_packets_delay": "10-30"
       },
       {
+        "type": "wireguard",
+        "tag": "📌 By: @MSNoroozian ⊙.☉ ",
+        "local_address": [
+          "172.16.0.2/24",
+          "2606:4700:110:8429:398c:7109:6bdb:976f/128"
+        ],
+        "private_key": " ",
+        "server": "162.159.192.245",
+        "server_port": 3476,
+        "peer_public_key": " ",
+        "reserved": "5iiL",
+        "mtu": 1330,
+        "fake_packets": "25-30",
+        "fake_packets_size": "10-30",
+        "fake_packets_delay": "10-30"
+      },
+      {
         "type": "dns",
         "tag": "dns-out"
       },
